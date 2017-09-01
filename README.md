@@ -7,6 +7,8 @@ OutReader 为结构工程师提供快速整理常用结构计算软件（包括 
 
 本软件开发者为：[李安](https://github.com/an-lee)，[韩艳波](https://github.com/meiputi)，[杨名流](https://github.com/ym6)
 
+[**点击下载**](https://github.com/an-lee/outreader/blob/master/demo/OutReader.xlsm?raw=true)
+
 部分截图如下：
 
 ![demo1](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-24-2015-10-07_221109.png)
