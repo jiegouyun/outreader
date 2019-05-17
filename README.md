@@ -11,8 +11,12 @@ OutReader 为结构工程师提供快速整理常用结构计算软件（包括 
 
 部分截图如下：
 
-![demo1](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-24-2015-10-07_221109.png)
-![demo2](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-24-2015-10-07_221114.png)
-![demo3](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-24-2015-10-07_221126.png)
-![demo4](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-25-2015-10-07_221326.png)
-![demo5](http://okgqgpbx3.bkt.clouddn.com/blog/2017-03-25-2015-10-07_221422.png)
+![demo1](https://github.com/an-lee/outreader/blob/master/demo/2015-10-07_221109.png)
+
+![demo2](https://github.com/an-lee/outreader/blob/master/demo/2015-10-07_221114.png)
+
+![demo3](https://github.com/an-lee/outreader/blob/master/demo/2015-10-07_221120.png)
+
+![demo4](https://github.com/an-lee/outreader/blob/master/demo/2015-10-07_221126.png)
+
+![demo5](https://github.com/an-lee/outreader/blob/master/demo/2015-10-07_221134.png)
